@@ -1,4 +1,4 @@
-;;Mani org V 0.1.2
+;;Mani el V 0.1.2
 (setq org-todo-keywords
       '((sequence "显化目标：(t)" "反显化目标：(v)" "抉择：(d)" "充能：(c)" "显化：(i)" "反显化：(a)" "|" "已完成：(o)" "已取消：(x@/!)")
 	(sequence " TODO(T)" "-------->WAITING，(W)" "-------->DEFER，(F)" "|" "DONE(D!)" "CANCELED(C@/!)")))
